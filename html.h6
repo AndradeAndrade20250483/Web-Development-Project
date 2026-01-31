@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web-1C</title>
+</head>
+<body>
+<center>
+    <h2><strong></strong>Web Development Project
+    <h3><strong>Name:</strong> Andrade, Andrade
+    <h3><strong>Address: Matab-Ang Day-as Cordova, Cebu </strong> 
+    <h3><strong>Gender: Male </strong> 
+    <h4><strong> Describe Yourself: A student who does his best to be competent both on school and life. </strong> 
+
+
+
+<h4>Study load </h4>
+
+<pre>
+ Subject Code|          Descriptive Title           |       Time       | Day/s | Room (Set A) | Room (Set B) | Units | Instructor 
+ PATHFIT 2   |   Exercise-Based Fitness Activities  |  8:00 - 9:00 AM  |  MW   |    TENT 1    |    ONLINE    |   2   | J. Paquibot
+ WEB         |          Web Development             |  9:00 - 10:00 AM |  MWF  |     LAB 1    |    ONLINE    |   3   | B. Empaces 
+ DISCRETE 1  |        Discrete Structures           |  7:00 - 8:00 AM  |  MWF  |     202      |    ONLINE    |   3   | E. Dinoy   
+ NSTP 2      |  National Service Training Program 2 | 10:00 - 11:00 AM |  MWF  |     403      |    ONLINE    |   3   | L. Paquibot
+ GE 3        |   Readings in Philippine History     |  7:00 - 10:00 AM |  SAT  |     303      |    ONLINE    |   3   | D. Inoc    
+ GE 4        |       Purposive Communication        |  8:30 - 10:00 AM |  TTH  |     202      |    ONLINE    |   3   | C. Blasco  
+ FIL 2       |       Panitikan ng Pilipinas         |  12:00 - 1:30 PM |  TTH  |     301      |    ONLINE    |   3   | E. Ando    
+ PROG 2      |       Computer Programming 2         |  7:00 - 8:30 AM  |  TTH  |    LAB 1     |    ONLINE    |   3   | I. Eda     
+ BASIC ELECT |        Basic Electronics             | 10:00 - 11:30 AM |  TTH  |    LAB 3     |    ONLINE    |   3   | T. Comayas 
+</pre>
+</center>
+    
+</body>
+</html>
